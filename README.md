@@ -1,3 +1,4 @@
+# 机翻汉化 连接在下面
 # Oblivion - Unofficial Warp Client for Android
 
 "Internet, for all or none!"
@@ -15,11 +16,12 @@ It's leveraging `bepass-sdk` and a custom Go implementation of WireGuard, it's d
 ## Quick Start
 
 1. **Download**: Grab the APK from our [Releases](https://github.com/bepass-org/oblivion/releases) page or [Google play store](https://play.google.com/store/apps/details?id=org.bepass.oblivion) and install it.
+2. 蓝奏云https://wwo.lanzoul.com/ibn2t1zeasze
 <a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
 
-2. **Connect**: Launch Oblivion and hit the switch button.
+3. **Connect**: Launch Oblivion and hit the switch button.
 
 ## Building the Project
 
